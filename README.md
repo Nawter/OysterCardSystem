@@ -1,5 +1,5 @@
 # OysterCardSystem
-The Oyster Card Problem
+## The Oyster Card Problem
 You are required to model the following fare card system which is a limited version of
 London’s Oyster card system. At the end of the test, you should be able to demonstrate a
 user loading a card with £30, and taking the following trips, and then viewing the balance.
@@ -32,41 +32,3 @@ Fares:
 - Any three zones £3.20
 - Any bus journey £1.80
 - The maximum possible fare is therefore £3.20.
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-                                                                                                                                                                                                                                                                                                         26,25-24      All
