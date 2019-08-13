@@ -18,11 +18,10 @@ The system should favour the customer where more than one fare is possible for a
 journey. E.g. Holburn to Earl’s Court is charged at £2.50.
 For the purposes of this test use the following data:
 #### Stations and zones:
-Station Zone(s)
-Holborn 1
-Earl’s Court 1, 2
-Wimbledon 3
-Hammersmith 2
+- Holborn 1
+- Earl’s Court 1, 2
+- Wimbledon 3
+- Hammersmith 2
 #### Fares:
 - Journey Fare
 - Anywhere in Zone 1 £2.50
