@@ -17,13 +17,13 @@ All bus journeys are charged at the same price.
 The system should favour the customer where more than one fare is possible for a given
 journey. E.g. Holburn to Earl’s Court is charged at £2.50.
 For the purposes of this test use the following data:
-Stations and zones:
+- Stations and zones:
 Station Zone(s)
 Holborn 1
 Earl’s Court 1, 2
 Wimbledon 3
 Hammersmith 2
-Fares:
+-- Fares:
 - Journey Fare
 - Anywhere in Zone 1 £2.50
 - Any one zone outside zone 1 £2.00
